@@ -1,0 +1,8 @@
+Trifork codetest:
+
+* basic publisher
+* local rabbit CLI.
+* basic consumer
+* environment variables
+* Test med docker-compose
+

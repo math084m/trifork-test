@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "MessageProducer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Environment": "Development",
+        "ConnectionHostName": "localhost",
+        "ConnectionPort": "5672",
+        "Channel": "MessageQueue"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  Rabbitmq:
+    image: rabbitmq:3-management
+    hostname: rabbitmq1
+    ports: 
+    - "5672:5672"
+    - "15672:15672"
+    networks:
+    - localhost-network
+networks:
+  localhost-network:
+    external: true

@@ -1,0 +1,9 @@
+C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\RabbitMQ.QueueCommunication\bin\Debug\netstandard2.0\RabbitMQ.QueueCommunication.deps.json
+C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\RabbitMQ.QueueCommunication\bin\Debug\netstandard2.0\RabbitMQ.QueueCommunication.dll
+C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\RabbitMQ.QueueCommunication\bin\Debug\netstandard2.0\RabbitMQ.QueueCommunication.pdb
+C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\RabbitMQ.QueueCommunication\obj\Debug\netstandard2.0\RabbitMQ.QueueCommunication.csprojAssemblyReference.cache
+C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\RabbitMQ.QueueCommunication\obj\Debug\netstandard2.0\RabbitMQ.QueueCommunication.AssemblyInfoInputs.cache
+C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\RabbitMQ.QueueCommunication\obj\Debug\netstandard2.0\RabbitMQ.QueueCommunication.AssemblyInfo.cs
+C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\RabbitMQ.QueueCommunication\obj\Debug\netstandard2.0\RabbitMQ.QueueCommunication.csproj.CoreCompileInputs.cache
+C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\RabbitMQ.QueueCommunication\obj\Debug\netstandard2.0\RabbitMQ.QueueCommunication.dll
+C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\RabbitMQ.QueueCommunication\obj\Debug\netstandard2.0\RabbitMQ.QueueCommunication.pdb

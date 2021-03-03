@@ -1,0 +1,39 @@
+version: "3"
+
+services:
+  MessageConsumer:
+    image: message-consumer:latest
+    build:
+      context: .
+      dockerfile: MessageConsumer/Dockerfile
+    container_name: MessageConsumer
+    ports:
+    - "5020:5020"
+    networks:
+    - localhost-network
+    environment:
+      "ASPNETCORE_ENVIRONMENT" : "development"
+      "Environment" : "Development"
+      "ConnectionHostName" : "rabbitmq1"
+      "ConnectionPort" : "5672"
+      "Channel" : "MessageQueue"
+      "MessageDatabase" : "Server=mssql-server-db,1433;Database=MessageDB;User Id=sa;Password=yourStrong(!)Password;"
+  MessageProducer:
+      image: message-producer:latest
+      build:
+        context: .
+        dockerfile: MessageProducer/Dockerfile
+      container_name: MessageProducer
+      ports:
+      - "5021:5021"
+      networks:
+      - localhost-network
+      environment:
+        "ASPNETCORE_ENVIRONMENT" : "development"
+        "Environment" : "Development"
+        "ConnectionHostName" : "rabbitmq1"
+        "ConnectionPort" : "5672"
+        "Channel" : "MessageQueue"
+networks:
+  localhost-network:
+    external: true

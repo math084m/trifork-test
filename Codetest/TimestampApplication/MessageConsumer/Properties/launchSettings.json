@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "MessageConsumer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Environment": "Development",
+        "ConnectionHostName": "localhost",
+        "ConnectionPort": "5672",
+        "Channel": "MessageQueue",
+        "MessageDatabase": "Server=localhost,1433;Database=MessageDB;User Id=sa;Password=yourStrong(!)Password;"
+      }
+    }
+  }
+}
