@@ -6175,11 +6175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\MessageConsumer\\MessageConsumer.csproj",
+      "projectUniqueName": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\MessageConsumer\\MessageConsumer.csproj",
       "projectName": "MessageConsumer",
-      "projectPath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\MessageConsumer\\MessageConsumer.csproj",
+      "projectPath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\MessageConsumer\\MessageConsumer.csproj",
       "packagesPath": "C:\\Users\\mnt.it-minds.dk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\MessageConsumer\\obj\\",
+      "outputPath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\MessageConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mnt.it-minds.dk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6196,11 +6196,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\RabbitMQ.QueueCommunication\\RabbitMQ.QueueCommunication.csproj": {
-              "projectPath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\RabbitMQ.QueueCommunication\\RabbitMQ.QueueCommunication.csproj"
+            "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\RabbitMQ.QueueCommunication\\RabbitMQ.QueueCommunication.csproj": {
+              "projectPath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\RabbitMQ.QueueCommunication\\RabbitMQ.QueueCommunication.csproj"
             },
-            "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj"
+            "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj": {
+              "projectPath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj"
             }
           }
         }

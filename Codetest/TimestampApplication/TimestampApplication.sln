@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageProducer", "MessageP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageConsumer", "MessageConsumer\MessageConsumer.csproj", "{8FB3BB4A-089C-4AEB-B622-C49DAF80F941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.QueueCommunication", "RabbitMQ.QueueCommunication\RabbitMQ.QueueCommunication.csproj", "{01B88F24-4A2D-4E21-B3F5-6B9473B627E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQ.QueueCommunication", "RabbitMQ.QueueCommunication\RabbitMQ.QueueCommunication.csproj", "{01B88F24-4A2D-4E21-B3F5-6B9473B627E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{B4E3345E-595A-4C48-A851-93673410BD73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utilities", "Utilities\Utilities.csproj", "{B4E3345E-595A-4C48-A851-93673410BD73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unittest", "Unittest\Unittest.csproj", "{2FA97918-3021-4504-9ACD-EE37B4246247}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B4E3345E-595A-4C48-A851-93673410BD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4E3345E-595A-4C48-A851-93673410BD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4E3345E-595A-4C48-A851-93673410BD73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA97918-3021-4504-9ACD-EE37B4246247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA97918-3021-4504-9ACD-EE37B4246247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA97918-3021-4504-9ACD-EE37B4246247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA97918-3021-4504-9ACD-EE37B4246247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

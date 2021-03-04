@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EG9kbpBFNe9v0q3nj4k5NW9nhxahwVy6BGZSSPU9RXTQLd568G8zLZO/D2sbA0v359KjK6v86abD8PPNctU58w==",
+  "dgSpecHash": "3PFdVqbPob8jhaAT8oao9Nfwd1UsrZc3JwgkuDdK7UnrEdHAnRNJyy6qPVVhJrbHC2ieZLoUBAVbjA+COqg9/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj",
+  "projectFilePath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mnt.it-minds.dk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\mnt.it-minds.dk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

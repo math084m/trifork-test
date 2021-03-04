@@ -27,7 +27,7 @@ namespace MessageConsumer.Services
             var tempStamp = _timeStamp.GetUnixEpochNow();
 
             //Over 1 min gammel = discard
-            if (data.TimeStamp < tempStamp + 60)
+            if (data.TimeStamp + 60 > tempStamp)
             {
                 try
                 {
@@ -61,7 +61,7 @@ namespace MessageConsumer.Services
             }
             else
             {
-                Log.Information($"Timestamp: {data.TimeStamp} because it is to old.");
+                Log.Information($"Timestamp: {data.TimeStamp} is removed because it's to old.");
             }
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj": {}
+    "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj": {
+    "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj",
+        "projectPath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\Utilities\\Utilities.csproj",
         "packagesPath": "C:\\Users\\mnt.it-minds.dk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\Utilities\\obj\\",
+        "outputPath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mnt.it-minds.dk\\AppData\\Roaming\\NuGet\\NuGet.Config",

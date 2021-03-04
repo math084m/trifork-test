@@ -1084,11 +1084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\RabbitMQ.QueueCommunication\\RabbitMQ.QueueCommunication.csproj",
+      "projectUniqueName": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\RabbitMQ.QueueCommunication\\RabbitMQ.QueueCommunication.csproj",
       "projectName": "RabbitMQ.QueueCommunication",
-      "projectPath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\RabbitMQ.QueueCommunication\\RabbitMQ.QueueCommunication.csproj",
+      "projectPath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\RabbitMQ.QueueCommunication\\RabbitMQ.QueueCommunication.csproj",
       "packagesPath": "C:\\Users\\mnt.it-minds.dk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\RabbitMQ.QueueCommunication\\obj\\",
+      "outputPath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\RabbitMQ.QueueCommunication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mnt.it-minds.dk\\AppData\\Roaming\\NuGet\\NuGet.Config",

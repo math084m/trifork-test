@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ppUvo+RMGzBS/Em8CCfJVjcJwfJ6a6rhGyQV/NuAUxNO99dPRITSWD7xfSwkU9I2q033aZKr6T7Hi+4DsyA70g==",
+  "dgSpecHash": "VLiORq3o79hismU+glWZ5ohz6Db/5XJXqos9mChdbEENB4iz9qO3xgX72CAqJvfVMVieJR4l8lJ9WLp46snwMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\MessageProducer\\MessageProducer.csproj",
+  "projectFilePath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\MessageProducer\\MessageProducer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mnt.it-minds.dk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\mnt.it-minds.dk\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

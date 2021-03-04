@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "go+J2DIHtW3/GDR6h15c3hz1+OAVDp4P48maGywrccuBjUwKuHVXBb1pzRAFxfXGM0VEwPahtOodIQ3PxE5ljg==",
+  "dgSpecHash": "xpg15XX28obsQWjW8osokioqll4be1h2INWesEJfFrB9JAGI40CimRj7wYKD17RDxqB+LzOq7u84OLcgb5znTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mnt.it-minds.dk\\Desktop\\Trifork\\Codetest\\TimestampApplication\\MessageConsumer\\MessageConsumer.csproj",
+  "projectFilePath": "C:\\Users\\mnt.it-minds.dk\\Documents\\GitHub\\trifork-test\\Codetest\\TimestampApplication\\MessageConsumer\\MessageConsumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mnt.it-minds.dk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mnt.it-minds.dk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

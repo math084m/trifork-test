@@ -7,3 +7,12 @@ C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\Utilities
 C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
 C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\Utilities\obj\Debug\netstandard2.0\Utilities.dll
 C:\Users\mnt.it-minds.dk\Desktop\Trifork\Codetest\TimestampApplication\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
+C:\Users\mnt.it-minds.dk\Documents\GitHub\trifork-test\Codetest\TimestampApplication\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+C:\Users\mnt.it-minds.dk\Documents\GitHub\trifork-test\Codetest\TimestampApplication\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\mnt.it-minds.dk\Documents\GitHub\trifork-test\Codetest\TimestampApplication\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+C:\Users\mnt.it-minds.dk\Documents\GitHub\trifork-test\Codetest\TimestampApplication\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
+C:\Users\mnt.it-minds.dk\Documents\GitHub\trifork-test\Codetest\TimestampApplication\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\mnt.it-minds.dk\Documents\GitHub\trifork-test\Codetest\TimestampApplication\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+C:\Users\mnt.it-minds.dk\Documents\GitHub\trifork-test\Codetest\TimestampApplication\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\mnt.it-minds.dk\Documents\GitHub\trifork-test\Codetest\TimestampApplication\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+C:\Users\mnt.it-minds.dk\Documents\GitHub\trifork-test\Codetest\TimestampApplication\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
