@@ -13,10 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Utilities\UnixEpoch\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\MessageConsumer\MessageConsumer.csproj" />
     <ProjectReference Include="..\RabbitMQ.QueueCommunication\RabbitMQ.QueueCommunication.csproj" />
     <ProjectReference Include="..\Utilities\Utilities.csproj" />
