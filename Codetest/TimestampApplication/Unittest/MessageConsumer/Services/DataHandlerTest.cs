@@ -13,6 +13,12 @@ namespace UnitTest.MessageConsumer.Services
     [TestFixture]
     public class DataHandlerTest
     {
+        [SetUp]
+        public void SetupTestFixture()
+        {
+            //Kunne være brugt, hvis der var noget fælles opsætning for de forskellige testcases.
+        }
+
         [Test]
         public void Should_Do_Nothing_When_TimeStamp_Is_OlderThan60Seconds()
         {
